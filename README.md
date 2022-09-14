@@ -7,7 +7,7 @@
 
 - 🔭 Estou trabalhando em: **Mim Mesmo.**
 
-- 🌱 Estou aprendendo: **SQL e me aperfeiçoando em C no momento.**
+- 🌱 Estou aprendendo: **SQL e JavaScript, além de me aperfeiçoando em C no momento.**
 
 - 📫 Email: **eduardo-dotto@hotmail.com**
 
